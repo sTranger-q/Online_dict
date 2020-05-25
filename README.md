@@ -32,8 +32,8 @@ Reason:
 
 ## Server:
     handle mysql:
-        register-->insert to users
-        log in---->select-->insert to history
+        register-->insert into users
+        log in---->select-->insert into history
         search word-->select from word
         query history--->select from history where username is satisfied
     
